@@ -96,7 +96,7 @@ export default function HeroSection() {
                     </svg>
                   </a>
                   <a
-                    href="https://vk.com/"
+                    href="https://vk.com/id607020607"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-white/70 transition-colors hover:text-white"
