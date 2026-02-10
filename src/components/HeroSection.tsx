@@ -112,7 +112,7 @@ export default function HeroSection() {
                     </svg>
                   </a>
                   <a
-                    href="https://instagram.com/"
+                    href="https://www.instagram.com/dava38beko?igsh=d2ZhazE0cDgxbnpv"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-white/70 transition-colors hover:text-white"
