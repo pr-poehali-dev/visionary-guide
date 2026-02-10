@@ -75,6 +75,9 @@ export default function HeroSection() {
                 <p className="text-xl font-light text-white/80 md:text-2xl">
                   Комик | Стендап артист
                 </p>
+                <p className="text-base font-light text-white/70 md:text-lg max-w-xl leading-relaxed">
+                  «Не пью» = готовься к хаосу. «Последний» = проёбан вечер. Пропал на 5 минут = вернётся с бутылкой из пустой комнаты. С ним каждый вечер = мем «что вообще было», воспоминания = 404. Правило: «давай по одному» → «бля, больше никогда», но все знают — пиздёж.
+                </p>
                 <div className="flex gap-6 pt-4">
                   <a
                     href="https://t.me/"
